@@ -1,0 +1,6 @@
+name: "MeadowSmpFlowerPlugin"
+main: fr.will33_.meadowsmpflower.MeadowSmpFlower
+version: ${project.version}
+author: "William AVENTIN"
+website: "https://www.elesia.org/"
+api-version: "1.20"

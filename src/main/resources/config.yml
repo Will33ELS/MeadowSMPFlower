@@ -1,0 +1,94 @@
+messages:
+  alreadySelected: "&cEffect already selected"
+gui:
+  title: "Effects"
+  rose-blossom:
+    displayname: "&cRose Blossom"
+    material: PINK_TULIP
+    lore:
+      - "&7Grants increased health regeneration."
+  sunflower-radiance:
+    displayname: "&cSunflower's Radiance"
+    material: SUNFLOWER
+    lore:
+      - "&7Provides a permanent speed boost."
+  lily-of-the-valley-serenity:
+    displayname: "&cLily of the Valley's Serenity"
+    material: LILY_OF_THE_VALLEY
+    lore:
+      - "&7Grants resistance to damage."
+  poppy-vitality:
+    displayname: "&cPoppy's Vitality"
+    material: POPPY
+    maxHealth: 30
+    lore:
+      - "&7Increases maximum health."
+  dandelion-gust:
+    displayname: "&cDandelion's Gust"
+    material: DANDELION
+    lore:
+      - "&7Provides a permanent jump boost."
+  tulip-grace:
+    displayname: "&cTulip's Grace"
+    material: RED_TULIP
+    lore:
+      - "&7Grants slow falling."
+  blue-orchid-refreshment:
+    displayname: "&cBlue Orchid's Refreshment"
+    material: BLUE_ORCHID
+    lore:
+      - "&7Restores hunger and saturation."
+  allium-euphoria:
+    increaseAttackDamage: 0.2
+    displayname: "&cAllium's Euphoria"
+    material: ALLIUM
+    lore:
+      - "&7Increases attack damage."
+  oxeye-daisy-clarity:
+    displayname: "&cOxeye Daisy's Clarity"
+    material: OXEYE_DAISY
+    lore:
+      - "&7Grants night vision."
+  cornflower-tranquility:
+    reduceFallDamage: 1
+    displayname: "&cCornflower's Tranquility"
+    material: CORNFLOWER
+    lore:
+      - "&7Reduces fall damage."
+  wither-rose-affliction:
+    witherEffectInSeconds: 10
+    displayname: "&cWither Rose's Affliction"
+    material: WITHER_ROSE
+    lore:
+      - "&7Inflicts Wither on nearby enemies."
+  peony-charm:
+    displayname: "&cPeony's Charm"
+    material: PEONY
+    lore:
+      - "&7Grants increased luck for fishing and treasure hunting."
+  lilac-camouflage:
+    displayname: "&cLilac's Camouflage"
+    material: LILAC
+    lore:
+      - "&7Grants invisibility."
+  azure-bluet-purity:
+    displayname: "&cAzure Bluet's Purity"
+    material: AZURE_BLUET
+    lore:
+      - "&7Grants water breathing."
+  pink-tulip-delight:
+    maxHealth: 30
+    displayname: "&cPink Tulip's Delight"
+    material: PINK_TULIP
+    lore:
+      - "&7Increases the effectiveness of health regeneration."
+  orange-tulip-warmth:
+    displayname: "&cOrange Tulip's Warmth"
+    material: ORANGE_TULIP
+    lore:
+      - "&7Grants fire resistance."
+  white-tulip-innocence:
+    displayname: "&cWhite Tulip's Innocence"
+    material: WHITE_TULIP
+    lore:
+      - "&7Provides immunity to poison."
